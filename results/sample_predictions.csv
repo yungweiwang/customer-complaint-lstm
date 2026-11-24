@@ -1,0 +1,5 @@
+Complaint,RNN Prediction,RNN Confidence,LSTM Prediction,LSTM Confidence
+My credit card was charged twice for the same purchase.,Credit card,0.6497,Credit card,0.8455
+A debt collector keeps calling me about a debt I do not owe.,Debt collection,0.4353,Debt collection,0.817
+My mortgage company increased my monthly home loan payment.,Mortgage,0.5617,Mortgage,0.7927
+I cannot afford to repay my student loans after graduation.,Student loan,0.6833,Student loan,0.9037
